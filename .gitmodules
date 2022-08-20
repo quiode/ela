@@ -1,0 +1,9 @@
+[submodule "ela-website"]
+	path = ela-website
+	url = git@github.com:quiode/ela-website.git
+[submodule "ela-daemon"]
+	path = ela-daemon
+	url = git@github.com:quiode/ela-daemon.git
+[submodule "ela-api"]
+	path = ela-api
+	url = git@github.com:quiode/ela-api.git
